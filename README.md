@@ -1,2 +1,2 @@
-# AI-ML
-Exercises Artificial Intelligence and Machine Learning
+# Courses
+This is a collection of exercises from diferent courses and books
