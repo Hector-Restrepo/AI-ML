@@ -1,2 +1,2 @@
 # R
-Content from the Business Analytics course - Spring 2017
+Content from the eMOT Business Analytics course at NYU - Spring 2017
