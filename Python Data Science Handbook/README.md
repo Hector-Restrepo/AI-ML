@@ -1,1 +1,1 @@
-Notebooks created based on the Book Python Data Science Handbook by Jake VanderPlas
+Notebooks based on the Book Python Data Science Handbook by Jake VanderPlas
